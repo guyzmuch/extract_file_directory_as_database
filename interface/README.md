@@ -1,0 +1,1 @@
+## Application to exploit the data from the project
